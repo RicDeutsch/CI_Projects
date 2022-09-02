@@ -22,8 +22,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #fff;
-    display: block; 
+    color: #fff; 
 }
 
 nav a:hover {
@@ -33,11 +32,8 @@ nav a:hover {
 
 .card {
     float: left;
-    width: 25%;
+    width: 15%;
     margin-left: 15%;
-    max-width: 24%;
-    min-width: 20%;
-    text-align: center;
 }
 
 .card a {
